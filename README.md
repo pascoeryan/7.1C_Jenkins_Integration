@@ -1,2 +1,2 @@
 Jenkins integration test.
-Auto aupdate test.
+Test auto update.
